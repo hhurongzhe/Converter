@@ -1,5 +1,5 @@
 # Converter
-Python script for generating binary file of nucleon-nucleon interaction matrix elements in c.m. frame, used in Miyagi Nuhamil code.
+Python script for generating binary file of nucleon-nucleon interaction matrix elements in c.m. frame, used in Miyagi NuHamil code.
 
 "convert_dat_to_binary.py":
 convert .dat file to binary file.
